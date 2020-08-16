@@ -1,2 +1,2 @@
 # The NoIE License
-**The NoIE License** is a license created to expel Internet Explorer, **an enemy of *Web Standards***. Read [**LICENSE.md**](https://github.com/thoratica/The-NoIE-License/blob/master/LICENSE.md) for details.
+**The NoIE License** is a license created to expel Internet Explorer, **THE ENEMY OF *WEB STANDARDS***. Read [**LICENSE.md**](https://github.com/thoratica/The-NoIE-License/blob/master/LICENSE.md) for details.
