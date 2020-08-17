@@ -1,4 +1,5 @@
 The NoIE License
+https://github.com/thoratica/The-NoIE-License
 
 (c) 2020 tica.
 
