@@ -1,7 +1,7 @@
 The NoIE License
 https://github.com/thoratica/The-NoIE-License
 
-(c) <year> <copyright holder(s)>.
+(c) &lt;year&gt; &lt;copyright holder(s)&gt;.
 
 Anyone who has obtained the source code for the software is free to use it as long as it complies with the following:
 
